@@ -1,0 +1,14 @@
+# LaTeX and Tectonic build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+*.xdv
+# editors and system
+.DS_Store
+*~
+.obsidian/
